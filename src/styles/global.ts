@@ -21,7 +21,7 @@ export default createGlobalStyle`
       font-size: 56.25%; /* 1rem = 9px */
     }
 
-    @media (max-width: 800px) {
+    @media (max-width: 600px) {
       font-size: 50%; /* 1rem = 8px */
     }
   }
